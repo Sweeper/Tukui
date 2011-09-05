@@ -136,7 +136,7 @@ C["nameplate"] = {
 }
 
 C["tooltip"] = {
-	["enable"] = true,                                  -- true to enable this mod, false to disable
+	["enable"] = false,                                  -- true to enable this mod, false to disable
 	["hidecombat"] = false,                             -- hide bottom-right tooltip when in combat
 	["hidebuttons"] = false,                            -- always hide action bar buttons tooltip.
 	["hideuf"] = false,                                 -- hide tooltip on unitframes
